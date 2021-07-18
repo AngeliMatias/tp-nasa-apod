@@ -34,7 +34,11 @@ En las estadísticas globales se pueden seleccionar y deseleccionar las opciones
 ## Qué necesito hacer para correr la app localmente?
 
 Para correr la app se necesita clonar el repositorio haciendo:
-### `> git clone https://github.com/AngeliMatias/covid-tracker` 
+### `> git clone https://github.com/AngeliMatias/tp-nasa-apod` 
+
+Luego pasar a la branch del repositorio mediante:
+
+### `> git checkout recuperatorio`
 
 Luego instalar las dependencias mediante:
 ### `> npm i`
