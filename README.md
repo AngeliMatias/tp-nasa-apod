@@ -1,3 +1,6 @@
+# Esta es la primer entrega del parcial, el recuperatorio se puede encontrar en el branch recuperatorio
+
+
 # TP Final para Construcción de interfaces de usuario
 
 Este trabajo práctico consta de una App creada con React que permite ver la foto diria de astronomía de la NASA, utilizando su api pública APOD.
