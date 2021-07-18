@@ -2,6 +2,8 @@
 # Seguimiento de Covid-19 con React y Material UI
 Esta app fue desarrollada utilizando *create-react-app*, *material-UI*, *react-chartjs2* y *react-countup*, utilizando la siguiente [API](https://covid19.mathdro.id/api)
 
+La app se encuentra hosteada en netlify en el siguiente [enlace](https://ciu-react-covid-tracker.netlify.app/)
+
 -----------------------
 
 ## **Para qué se utilizó cada cosa?**
@@ -29,7 +31,7 @@ En las estadísticas globales se pueden seleccionar y deseleccionar las opciones
 
 -----------------------
 
-## Qué necesito hacer para correr la app?
+## Qué necesito hacer para correr la app localmente?
 
 Para correr la app se necesita clonar el repositorio haciendo:
 ### `> git clone https://github.com/AngeliMatias/covid-tracker` 
